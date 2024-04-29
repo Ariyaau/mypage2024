@@ -38,4 +38,12 @@ table {
   tfoot td {
     font-weight: bold;
   }
+
+  .circle{border-radius:100%;
+  }
   
+ 
+    hr {
+      border-style: none; border-top-style: dotted; border-color: rgb(91, 236, 161);
+      border-width:5px; width: 30%;
+      }
